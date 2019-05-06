@@ -1,6 +1,6 @@
 certifi==2018.10.15
 chardet==3.0.4
-idna==2.7
+idna==2.8
 pycrypto==2.6.1
 requests==2.21.0
 urllib3==1.25.2
