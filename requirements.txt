@@ -12,7 +12,7 @@ idna==3.4
     # via requests
 requests==2.28.1
     # via -r requirements.in
-urllib3==1.26.12
+urllib3==1.26.13
     # via requests
 xmltodict==0.13.0
     # via -r requirements.in
